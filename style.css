@@ -530,7 +530,7 @@ label {
     background-image: url("https://static.wixstatic.com/media/c837a6_02de7d4c43d44b7b890854049ed75da8f000.jpg/v1/fill/w_320,h_480,al_c,q_80,usm_0.33_1.00_0.00,enc_auto/c837a6_02de7d4c43d44b7b890854049ed75da8f000.jpg");
     background-size: cover;
     height: 100vh;
-    /* width: 100vw  ; */
+    width: 100%  ;
     background-repeat: no-repeat;
     background-position: center;
     box-shadow: inset 0 -190px 500px -50px rgba(0, 0, 0, 1);
